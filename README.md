@@ -1,4 +1,4 @@
-### ⚙️ Installation
+### ✍️ Usage
 
 - Install the requirements: `pip install -r requirements.txt`
 - Create a `.env` file
